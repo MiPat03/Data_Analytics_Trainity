@@ -1,7 +1,5 @@
 # Data_Analytics_Trainity
 
-# Data_Analytics_Trainity
-
 This repository contains a collection of data analytics projects completed during my time at Trainity. Each project focuses on different aspects of data analysis, ranging from real-life scenarios to complex business challenges. Below is an overview of each project, including the problem statements, methodologies, and tools used.
 
 ## Project 1: Data Analytics Process
